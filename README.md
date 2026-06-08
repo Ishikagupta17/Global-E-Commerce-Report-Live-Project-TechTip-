@@ -1,0 +1,2 @@
+# Global-E-Commerce-Report-Live-Project-TechTip-
+This project presents an interactive E-Commerce Sales Dashboard designed to analyze sales performance, customer behavior, and market trends with key metrics such as Total Sales (12.64M), Total Profit (1.47M), Total Quantity (178K), Shipping Cost (1.35M). Tools &amp; Technologies: Power BI, Data Visualization Techniques, Business Intelligence Concepts.
